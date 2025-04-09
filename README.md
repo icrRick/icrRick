@@ -29,7 +29,7 @@ I'm a backend adventurer with a flair for code magic and bug alchemy. I enjoy so
 
 ### 🎒 Project
   
-- 📕 [Book E-commerce Website](https://github.com/icrRick/theBugs_book_ecommerce)  
+- Currently: 📕 [Book E-commerce Website](https://github.com/icrRick/theBugs_book_ecommerce)  
    💬 *"A marketplace where knowledge meets code. Built for experience, powered by bugs."*
 
 - 🍞 [Bakery Shop Website (Spring Boot)](https://github.com/icrRick/TheBugs_BakeryWebsiteOnlinePayment)  
