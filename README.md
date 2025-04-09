@@ -32,6 +32,7 @@ I'm a backend adventurer with a flair for code magic and bug alchemy. I enjoy so
 - Currently: 📕 [Book E-commerce Website](https://github.com/icrRick/theBugs_book_ecommerce)  
    💬 *"A marketplace where knowledge meets code. Built for experience, powered by bugs."*
 
+
 - 🍞 [Bakery Shop Website (Spring Boot)](https://github.com/icrRick/TheBugs_BakeryWebsiteOnlinePayment)  
    💬 *"Converted into a RESTful API backend using Spring Boot, consumed by a React frontend to handle orders and user actions."*
 
