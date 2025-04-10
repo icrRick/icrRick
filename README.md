@@ -1,4 +1,4 @@
-## ⚔️ Hey, I'm **Trong Tri**!
+## ⚔️ Hey, I'm **Trong Tri**!                             (https://visitor-badge.laobi.icu/badge?page_id=icrRick.icrRick)
 <a href='https://github.com/icrRick'><img align='left' alt="github" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height='18px'/></a>
 
 I'm a backend adventurer with a flair for code magic and bug alchemy. I enjoy solving logical puzzles, crafting scalable systems, and pushing through cursed code to evolve into something more powerful.
@@ -48,7 +48,7 @@ I'm a backend adventurer with a flair for code magic and bug alchemy. I enjoy so
     
 
 ---
-[![Profile views](https://visitor-badge.laobi.icu/badge?page_id=icrRick.icrRick)]
+
 <blockquote>
     <p align="center"><em>⚔️ Each bug was a cursed delicacy.</em><br/>
     <em><strong>I consumed them all — and evolved.</strong></em></p>
