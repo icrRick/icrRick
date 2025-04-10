@@ -48,7 +48,7 @@ I'm a backend adventurer with a flair for code magic and bug alchemy. I enjoy so
     
 
 ---
-[![Profile views](https://profile-counter.glitch.me/icrRick/count.svg)](https://visitor-badge.laobi.icu/badge?page_id=icrRick.icrRick)
+[![Profile views](https://visitor-badge.laobi.icu/badge?page_id=icrRick.icrRick)
 <blockquote>
     <p align="center"><em>⚔️ Each bug was a cursed delicacy.</em><br/>
     <em><strong>I consumed them all — and evolved.</strong></em></p>
