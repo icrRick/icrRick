@@ -1,7 +1,5 @@
 ## ⚔️ Hey, I'm **Trong Tri**!
-<div align="center">
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=icrRick.icrRick-v2&left_color=slateblue&right_color=darkslateblue&left_text=🧿%20Visitors)
-</div>
 
 <a href='https://github.com/icrRick'><img align='left' alt="github" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height='18px'/></a>
 
