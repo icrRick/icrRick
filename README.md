@@ -11,7 +11,7 @@ I'm a backend adventurer with a flair for code magic and bug alchemy. I enjoy so
 - 🧠 Focused on mastering Java, Spring Boot, and React
 - ⚡ Email: `trongtri.1975s@gmail.com`  
 - 🧝‍♂️ Facebook: [icr.Rick](https://www.facebook.com/icr.rick/)
-- 🧞 Quote: *“Each bug was a cursed delicacy. I consumed them all — and evolved.”*
+- 🧞 Quote: *“⚔️ Each bug, a lesson. Each fix, an evolution.”*
 
 ---
 
