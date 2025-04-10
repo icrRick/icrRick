@@ -46,12 +46,6 @@ I'm a backend adventurer with a flair for code magic and bug alchemy. I enjoy so
    💬 *"A desktop application developed with Java Swing for managing orders, inventory, and revenue in a coffee shop setting."*
 
     
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icrRick&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1A1A&title_color=FF5555&text_color=AAAAAA" alt="Most Used Languages"/>
-</p>
 
 ---
 
