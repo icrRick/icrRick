@@ -52,6 +52,5 @@ I'm a backend adventurer with a flair for code magic and bug alchemy. I enjoy so
 ---
 
 <blockquote>
-    <p align="center"><em>⚔️ Each bug was a cursed delicacy.</em><br/>
-    <em><strong>I consumed them all — and evolved.</strong></em></p>
+    <p align="center"><em><strong>⚔️ Each bug, a lesson. Each fix, an evolution.</strong></em></p>
   </blockquote>
