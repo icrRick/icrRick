@@ -3,7 +3,7 @@
 
 <a href='https://github.com/icrRick'><img align='left' alt="github" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height='18px'/></a>
 
-I'm a backend adventurer with a flair for code magic and bug alchemy. I enjoy solving logical puzzles, crafting scalable systems, and pushing through cursed code to evolve into something more powerful.
+I love solving logical puzzles and turning complex requirements into efficient, scalable backend solutions.
 <br/>
 
 ### 🧙‍♂️ About Me:
@@ -36,7 +36,7 @@ I'm a backend adventurer with a flair for code magic and bug alchemy. I enjoy so
 
 
 - 🍞 [Bakery Shop Website (Spring Boot)](https://github.com/icrRick/TheBugs_BakeryWebsiteOnlinePayment)  
-   💬 *"Converted into a RESTful API backend using Spring Boot, consumed by a React frontend to handle orders and user actions."*
+   💬 *"Converted into a RESTful API backend using Spring Boot, consumed by a React frontend to handle orders and user actions. Online payment with VNPay"*
 
 - 🍞 [Bakery Shop Website (Spring Boot)](https://github.com/icrRick/SpringBoot_BakeryShop)  
    💬 *"Spring Boot application that renders views using Thymeleaf, passing model attributes from the controller to the frontend."*
@@ -45,7 +45,7 @@ I'm a backend adventurer with a flair for code magic and bug alchemy. I enjoy so
    💬 *"Single Page Application using AngularJS and Bootstrap 5. Integrated with a mock API for dynamic product/category management and an admin feature for CRUD operations."*
 
 - ☕ [Coffee Management Software (Java Swing)](https://github.com/icrRick/JavaSwing_CoffeManagement)  
-   💬 *"A desktop application developed with Java Swing for managing orders, inventory, and revenue in a coffee shop setting."*
+   💬 *"A desktop application developed with Java Swing for simple managing orders, inventory, and revenue in a coffee shop setting."*
 
     
 
