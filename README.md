@@ -1,6 +1,5 @@
 ## ⚔️ Hey, I'm **Trong Tri**!
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=icrRick.theBugsBook&left_color=slateblue&right_color=darkslateblue&left_text=%F0%9F%A7%BF%20Visitors)
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=icrRick.icrRick-v2&left_color=slateblue&right_color=darkslateblue&left_text=🧿%20Visitors)
 <a href='https://github.com/icrRick'><img align='left' alt="github" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height='18px'/></a>
 
 I love solving logical puzzles and turning complex requirements into efficient, scalable backend solutions.
