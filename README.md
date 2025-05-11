@@ -35,12 +35,9 @@ I love solving logical puzzles and turning complex requirements into efficient, 
    💬 *"A marketplace where knowledge meets code. Built for experience, powered by bugs."*
 
 
-- 🍞 [Bakery Shop Website (Spring Boot)](https://github.com/icrRick/TheBugs_BakeryWebsiteOnlinePayment)  
-   💬 *"Converted into a RESTful API backend using Spring Boot, consumed by a React frontend to handle orders and user actions. Online payment with VNPay"*
-
-- 🍞 [Bakery Shop Website (Spring Boot)](https://github.com/icrRick/SpringBoot_BakeryShop)  
-   💬 *"Spring Boot application that renders views using Thymeleaf, passing model attributes from the controller to the frontend."*
-
+- 🍞 [Bakery Shop Website (Spring Boot)](https://github.com/icrRick/BakeryStoreWithVNPay)  
+   💬 *"RESTful API backend using Spring Boot, consumed by a React frontend to handle orders and user actions. Online payment with VNPay"*
+  
 - 🍰 [Cake Shop Website (AngularJS)](https://github.com/icrRick/AngularJS_BakeryShop)  
    💬 *"Single Page Application using AngularJS and Bootstrap 5. Integrated with a mock API for dynamic product/category management and an admin feature for CRUD operations."*
 
