@@ -10,7 +10,7 @@ I love solving logical puzzles and turning complex requirements into efficient, 
 - 🔭 Currently battling bugs on [**The Bugs Book E-Commerce Quest**](https://github.com/icrRick/theBugs_book_ecommerce)
 - 🧠 Focused on mastering Java, Spring Boot, and React
 - ⚡ Email: `trongtri.1975s@gmail.com`  
-- 🧝‍♂️ Facebook: [icr.Rick](https://www.facebook.com/icr.rick/)
+- 🧝‍♂️ Facebook: [irrickk](https://www.facebook.com/irrickk/)
 - 🧞 Quote: *“⚔️ Each bug, a lesson. Each fix, an evolution.”*
 
 ---
