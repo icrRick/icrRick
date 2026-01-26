@@ -16,7 +16,7 @@ I love solving logical puzzles and turning complex requirements into efficient, 
 ### 🧙‍♂️ About Me:
 - 🔭 Currently battling bugs at [**CTISE**](https://ctise.vn/)
 - 🧠 Focused on mastering Java, Spring Boot, and React
-- ⚡ Email: trongtri.1975s [at] gmail [dot] com
+- ⚡ Email: `trongtri.1975s@gmail.com`  
 - 🧝‍♂️ Facebook: [irrickk](https://www.facebook.com/irrickk/)
 
 ---
