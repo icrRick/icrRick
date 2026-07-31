@@ -26,8 +26,7 @@ I love solving logical puzzles and turning complex requirements into efficient, 
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=icrRick&show_icons=true&theme=tokyonight&hide_border=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icrRick&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+  <img src="https://streak-stats.demolab.com?user=icrRick&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
