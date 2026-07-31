@@ -22,12 +22,6 @@ I love solving logical puzzles and turning complex requirements into efficient, 
 
 ---
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=icrRick&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 <blockquote>
   <p align="center"><em><strong>Each bug, a lesson. Each fix, an evolution.</strong></em></p>
 </blockquote>
