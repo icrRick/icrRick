@@ -1,9 +1,7 @@
 ## Hey, I'm **Trong Tri**!
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=icrRick.icrRick-v2&left_color=slateblue&right_color=darkslateblue&left_text=🧿%20Visitors)
 
-<p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Backend+Developer;Scalable+Systems;Automation+Pipelines" alt="Typing SVG" /></a>
-</p>
+**Backend Developer | Scalable Systems**
 
 I love solving logical puzzles and turning complex requirements into efficient, scalable backend solutions.
 
@@ -24,7 +22,6 @@ I love solving logical puzzles and turning complex requirements into efficient, 
 
 ---
 
-### 📊 GitHub Stats
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=icrRick&theme=tokyonight&hide_border=true" height="150"/>
 </p>
