@@ -15,7 +15,7 @@ I love solving logical puzzles and turning complex requirements into efficient, 
 ---
 
 ### 🚀 Featured Work
-- **One Mekong Ecosystem** `Java` `Spring Boot` `MySQL`  
+- **One Mekong Ecosystem** `JavaScript` `NestJS` `MongoDB`  
   Multi-service backend platform serving hospitality, restaurant, and cruise ship management.
 - **Automated News Crawler Pipeline** `Python` `Playwright`  
   High-efficiency automated data extraction pipeline.
