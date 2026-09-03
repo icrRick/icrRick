@@ -10,7 +10,7 @@ I love solving logical puzzles and turning complex requirements into efficient, 
 ### 🧙‍♂️ About Me
 - 🧠 Focused on mastering backend
 - ⚡ Email: `trongtri.1975s@gmail.com`  
-- 🧝‍♂️ Facebook: [irrickk](https://www.facebook.com/irrickk/)
+- 🧝‍♂️ Facebook: [ir3cr](https://www.facebook.com/ic3cr/)
 
 ---
 
