@@ -18,20 +18,8 @@
   </a>
   <br/><br/>
 
-  <!-- Minimalist Monochrome Badges -->
-  <a href="https://irrick-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-irrick--portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:trongtri.1975s@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-trongtri.1975s%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/irrickk/">
-    <img src="https://img.shields.io/badge/FACEBOOK-irrickk-000000?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=icrRick&style=flat-square&color=000000&labelColor=555555&label=VISITORS" />
+ <!-- Minimalist Monochrome Badges -->
+  <a href="https://irrick-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-irrick--portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;&nbsp;<a href="mailto:trongtri.1975s@gmail.com"><img src="https://img.shields.io/badge/EMAIL-trongtri.1975s%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://www.facebook.com/irrickk/"><img src="https://img.shields.io/badge/FACEBOOK-irrickk-000000?style=flat-square&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=icrRick&style=flat-square&color=000000&labelColor=555555&label=VISITORS" />
 
 </div>
 
