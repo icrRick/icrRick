@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/FACEBOOK-irrickk-000000?style=flat-square&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=icrRick&style=flat-square&color=ffffff&labelColor=18181b&label=VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=icrRick&style=flat-square&color=000000&labelColor=555555&label=VISITORS" />
 
 </div>
 
