@@ -11,14 +11,11 @@
   <br/><br/>
 
   <!-- Minimalist Terminal Component -->
-  
-<a href="https://irrick-portfolio.vercel.app/">
-      <img src="./assets/terminal.svg" width="100%" alt="Terminal Window" />
+  <a href="https://irrick-portfolio.vercel.app/"><img src="./assets/terminal.svg" width="100%" alt="Terminal Window" /></a>
 
-  </a>
   <br/><br/>
 
- <!-- Minimalist Monochrome Badges -->
+  <!-- Minimalist Monochrome Badges -->
   <a href="https://irrick-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-irrick--portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;&nbsp;<a href="mailto:trongtri.1975s@gmail.com"><img src="https://img.shields.io/badge/EMAIL-trongtri.1975s%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://www.facebook.com/irrickk/"><img src="https://img.shields.io/badge/FACEBOOK-irrickk-000000?style=flat-square&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=icrRick&style=flat-square&color=000000&labelColor=555555&label=VISITORS" />
 
 </div>
@@ -27,11 +24,14 @@
 
 ---
 
-### 🚀 Featured Work
+### FEATURED PROJECTS
 
-- **[One Mekong Ecosystem](https://irrick-portfolio.vercel.app/)** `NestJS` `TypeScript` `Redis` `BullMQ` `MongoDB`  
-  Multi-service backend platform serving hospitality, restaurant, and cruise ship management.
+**01 / [One Mekong Ecosystem](https://irrick-portfolio.vercel.app/)**  
+Multi-service backend platform serving hospitality, restaurant, and cruise ship management.  
+`NestJS` `TypeScript` `Redis` `BullMQ` `MongoDB`
 
-- **[Automated News Crawler Pipeline](https://github.com/icrRick/SpiderNews_Demo)** `Python` `FastAPI` `Playwright`  
-  High-efficiency automated data extraction and processing pipeline.
+<br/>
 
+**02 / [Automated News Crawler Pipeline](https://github.com/icrRick/SpiderNews_Demo)**  
+High-efficiency automated data extraction and processing pipeline.  
+`Python` `FastAPI` `Playwright` `APScheduler`
