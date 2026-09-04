@@ -47,8 +47,3 @@
 - **[Automated News Crawler Pipeline](https://github.com/icrRick/SpiderNews_Demo)** `Python` `FastAPI` `Playwright`  
   High-efficiency automated data extraction and processing pipeline.
 
----
-
-<div align="center">
-  <sub><em><strong>"Each bug, a lesson. Each fix, an evolution."</strong></em></sub>
-</div>
