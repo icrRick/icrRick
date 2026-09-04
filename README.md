@@ -11,8 +11,11 @@
   <br/><br/>
 
   <!-- Minimalist Terminal Component -->
-  <img src="./assets/terminal.svg" width="100%" alt="Terminal Window" />
+  
+<a href="https://irrick-portfolio.vercel.app/">
+      <img src="./assets/terminal.svg" width="100%" alt="Terminal Window" />
 
+  </a>
   <br/><br/>
 
   <!-- Minimalist Monochrome Badges -->
